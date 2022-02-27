@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament for the present setling (without further delay) of the Presbyteriall government in the Church of England. Die Veneris 5. Iunii 1646. Ordered by the Lords assembled in Parliament, that this ordinance concerning church-government, be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83223</idno>
+            <idno type="STC">Wing E2003</idno>
+            <idno type="STC">Thomason E340_4</idno>
+            <idno type="STC">ESTC R32842</idno>
+            <idno type="EEBO-CITATION">99872338</idno>
+            <idno type="PROQUEST">99872338</idno>
+            <idno type="VID">159732</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83223)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159732)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E340[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament for the present setling (without further delay) of the Presbyteriall government in the Church of England. Die Veneris 5. Iunii 1646. Ordered by the Lords assembled in Parliament, that this ordinance concerning church-government, be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright at the Kings Head in the old Bayley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159732:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <p>An ORDINANCE OF THE LORDS and COMMONS Aſſembled in PARLIAMENT FOR The preſent ſetling (without further delay) Of the Presbyteriall Government In the Church of ENGLAND.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Veneris 5. Iunii 1646.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords Aſſembled in Parliament, That this Ordinance concerning Church-Government, be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>Joh. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed for <hi>Iohn Wright</hi> at the Kings Head in the old Bavley. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159732:2"/>
+            <!-- PDF PAGE 50 -->
+            <pb n="1" facs="tcp:159732:2"/>
+            <!-- PDF PAGE 50 -->
+            <opener>
+               <dateline>
+                  <date>Die Veneris 5. Junii 1646.</date>
+               </dateline>
+            </opener>
+            <head>AN ORDINANCE OF THE LORDS and COMMONS Aſſembled in PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons in Par<g ref="char:EOLhyphen"/>liament, holding their former reſolution, That all notorious and ſcandalous Offenders ſhalbe kept from the Sacrament, have thought fit to make a further addition to the ſcandalous Offences formerly enumerated, for which men ſhall bee kept
+<pb n="2" facs="tcp:159732:3"/>
+               <!-- PDF PAGE 51 -->from the Sacrament; and leaſt the ſtay of the enumeration, and the not naming of Commſ<g ref="char:EOLhyphen"/>ſioners to judge of Caſes not enumerated, ſhould hinder the putting in execution the Presbyterian Government already eſtabliſhed: They have thought fit, that in regard that divers perſons fit to be Commiſſioners, according to the laſt Ordinance of 14 Martii 1645. by rea<g ref="char:EOLhyphen"/>ſon of the preſent Diſtractions, are abſent from their habitations, and ſo cannot doe the ſervice therein, which otherwiſe they might doe: They doe therefore Ordaine, that in ſtead and place of Commiſſioners in the ſaid Ordinance,</p>
+            <p>
+               <hi>THomas</hi> Earle of <hi>Arundell</hi> and <hi>Surry, Algernon</hi> Earle of <hi>Northumberland, Henry</hi> Earle of <hi>Kent, Iohn</hi> Earle of <hi>Rutland, Philip</hi> Earle of <hi>Pembroke</hi> and <hi>Montgomery, Robert</hi> Earle of <hi>Eſſex, Theophilus</hi> Earle of <hi>Lincolne, Charles</hi> Earle of <hi>Nottingham, Iames</hi> Earle of <hi>Suffolke, William</hi> Earle of <hi>Salisbury, Iohn</hi> Earle of <hi>Bridgewater, Robert</hi> Earle of <hi>Warwicke, Bazall</hi> Earle of <hi>Denbigh, Iames</hi> Earle of <hi>Middleſex, Oliver</hi> Earle of <hi>Bollingbrooke, Edward</hi> Earle of <hi>Mancheſter, Edmond</hi> Earle of <hi>Mulgrave, Henry</hi> Earle of <hi>Stamford, William</hi> Lord Viſcount <hi>Say</hi> and <hi>Seale, George</hi> Lord <hi>Berkley, Francis</hi> Lord <hi>Dacres, Philip</hi> Lord <hi>Wharton, Francis</hi> Lord <hi>Willoughby</hi> of <hi>Parham, Dudley</hi> Lord <hi>North, Iohn</hi> Lord <hi>Hunſdon, Charles</hi> Lord <hi>Stanhopp, Edward</hi> Lord <hi>M<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>untague, William</hi> Lord <hi>Grey</hi> of <hi>Warke, Iohn</hi> Lord <hi>Ro<g ref="char:EOLhyphen"/>b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rts, William</hi> Lord <hi>Maynard, Edward</hi> Lord <hi>Howard</hi> of
+<pb n="3" facs="tcp:159732:3"/>
+               <!-- PDF PAGE 51 -->
+               <hi>Eſcrieh, Richard</hi> Lord <hi>Herbert Cherberry, Thomas</hi> Lord <hi>Bruce.</hi>
+            </p>
+            <p>
+               <hi>Francis Rous, Edmond Prideaux</hi> Eſquires, Sir <hi>Henry Vane</hi> Senior, <hi>Iohn Glyn</hi> Eſquire, Recorder of <hi>London;</hi> Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Harley, Bulſtrode Whitlock</hi> Eſquire, <hi>Humphrey Sallo<g ref="char:EOLhyphen"/>way</hi> Eſquire, Maſter Serjeant <hi>Wilde, Oliver St. Iohn</hi> Eſ<g ref="char:EOLhyphen"/>quire, his Majeſties Sollicitor; Sir <hi>Benjamin Rudyard</hi> Knight, Maſter <hi>Tate,</hi> Sir <hi>Iohn Clotworthy</hi> Knight, <hi>Iohn Maynard</hi> Eſquire, Sir <hi>Henry Vane</hi> junior Knight, <hi>William Pierrepont</hi> Eſquire, <hi>William Wheeler</hi> Eſquire, Sir <hi>Willi<g ref="char:EOLhyphen"/>am Maſham, Walter Young,</hi> Sir <hi>Iohn Evelyn</hi> Knight, <hi>Iohn Selden</hi> Eſquire, <hi>Samuel Browne</hi> Eſquire, Sir <hi>William Strickland, Walter Long</hi> Eſquire, <hi>Herbert Morley</hi> Eſ<g ref="char:EOLhyphen"/>quire, <hi>George Snelling</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Harbottle Grimſton</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Iohn Boys</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Richard Shuttleworth,</hi> Lord <hi>Fairfax,</hi> Sir <hi>John D'Anvers, John Crew</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Anthony Irby,</hi> Sir <hi>Iohn Hol<g ref="char:EOLhyphen"/>land,</hi> Sir <hi>Philip Stapleton, Luke Robinſon</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas We<g ref="char:EOLhyphen"/>ſtrow</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Denzell Hollis</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Henry Lucas</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Iohn Dreydon, Robert Reynolds</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Thomas Middleton, Ro<g ref="char:EOLhyphen"/>bert Jennor</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Henry Oxenden</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Gilbert Gerrard, Nicholas Stoughton</hi> 
+               <abbr>Eſq</abbr> Sir <hi>John Burgoyne,</hi> Sir <hi>Edward Aiſcough, Iohn Swynfen</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Henry Heyman, Edw. Leigh</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Thomas Wroth, Samuel Gott</hi> 
+               <abbr>Eſq</abbr> Sir <hi>John Bamfield, William Ball</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Palmer</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Laurence Whitacre</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Arther Heſlerigg,</hi> Sir <hi>Dudley North,</hi> Sir <hi>William Waller, Nathaniel Bacon</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Richard Edwards</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Luke Hodges</hi> 
+               <abbr>Eſq</abbr> Sir <hi>William Lewis, Francis Allen</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Giles Greene</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Gourdon</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Dennis Bond</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Peter Went<g ref="char:EOLhyphen"/>worth,</hi> Sir <hi>Samuel Luke, Edward Bainton</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Richard Salloway</hi> junior, <hi>Simon Theloall</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Oliver Cromwell</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Iſaac Pennington</hi> 
+               <abbr>Eſq</abbr> Alderman of the City of London, <hi>John Ven</hi> 
+               <abbr>Eſq</abbr> Doctor <hi>John Bond,</hi> Sir <hi>Richard Onſlow,</hi> Sir <hi>William Armyn, William Aiſcough</hi> Eſquire, <hi>George Abbot</hi>
+               <pb n="4" facs="tcp:159732:4"/>
+               <!-- PDF PAGE 52 -->Eſquire, <hi>Cornelius Holland</hi> Eſquire, <hi>Iohn Blackiſton</hi> E<g ref="char:EOLhyphen"/>ſquire, Lord <hi>Herbert,</hi> Sir <hi>Walter Erle, Henry Martin</hi> Eſquire, Sir <hi>Thomas Dacres, Richard Browne</hi> Eſquire, <hi>William Ellis</hi> Eſquire, <hi>Iohn Liſle</hi> Eſquire, <hi>William Aſhurſt</hi> Eſquire, Sir <hi>Iohn Treavor,</hi> Sir <hi>Nathaniel Barnardiſton, Thomas</hi> Lord <hi>VVenman,</hi> Sir <hi>Martin Lumley, Samuel Vaſſall</hi> Eſquire, Sir <hi>Matthew Boynton, Jervace Piggott</hi> Eſquire, <hi>Iohn Hutchinſon</hi> Eſquire, <hi>Thomas Hatcher</hi> Eſquire, <hi>Iames Fiennes</hi> Eſquire, <hi>Valentine Walton</hi> Eſquire, <hi>Iohn Ste<g ref="char:EOLhyphen"/>phens</hi> Eſquire, Sir <hi>Iohn Evelyn</hi> of Surry, <hi>Thomas Scott</hi> Eſquire, <hi>Thomas Pury</hi> Eſquire, <hi>Henry Peck</hi> Eſquire, <hi>Thomas Hodges</hi> of Glouceſterſhire Eſquire, <hi>William Leman</hi> Eſquire, <hi>Richard Winwood</hi> Eſquire, <hi>Iohn Lowry</hi> Eſquire, Sir <hi>Martin Liſter,</hi> Sir <hi>Edmond Fowell, Robert Wallop</hi> Eſquire, <hi>Richard Whitehead</hi> Eſquire, <hi>Nathaniell Hallows</hi> Eſquire, <hi>Robert Brewſter</hi> Eſquire, Sir <hi>Edward Hunger<g ref="char:EOLhyphen"/>ford, Richard Norton</hi> Eſquire, Sir <hi>Thomas Barnardiſton,</hi> Sir <hi>Thomas Trenchard, Miles Corbet</hi> Eſquire, Sir <hi>Henry Mildmay, Thomas Atkin</hi> Eſquire, Alderman of the City of London, Lord <hi>Cranborne, Roger Hill</hi> Eſquire, Sir <hi>John Barrington, John Trenchard</hi> Eſquire, Sir <hi>John Corbet, Alex<g ref="char:EOLhyphen"/>ander Popham</hi> Eſquire, Sir <hi>Samuel Roll,</hi> Sir <hi>Iohn Coke, Iohn Nut</hi> Eſquire, <hi>Ralph Aſhton</hi> Eſquire, <hi>Richard Barwis</hi> Eſquire, <hi>William Armyn</hi> Eſquire, <hi>Kichard Tolſon</hi> Eſquire, Sir <hi>Henry Cholmely,</hi> Sir <hi>Thomas Widdrington, George Fen<g ref="char:EOLhyphen"/>wick</hi> Eſquire, <hi>Edmond Ludlow</hi> Eſquire, <hi>Lillibon Long</hi> Eſquire, <hi>Francis Drake</hi> Eſquire, Sir <hi>Michaell Liveſay, Ed<g ref="char:EOLhyphen"/>ward Stephens</hi> Eſquire, Sir <hi>VVilliam Spring, Iames Herbert</hi> Eſquire, <hi>Henry Laurence</hi> Eſquire, <hi>Iohn Roll</hi> Eſquire, Sir <hi>Iohn Francklyn, Thomas Sandys</hi> Eſquire, Sir <hi>Thomas Mali<g ref="char:EOLhyphen"/>verer,</hi> Sir <hi>VVilliam Litton, Nathaniell Fiennes</hi> Eſquire, <hi>VVilliam Purefey</hi> Eſquire:</p>
+            <p>Or any nine of them ſhall be a Committee of
+<pb n="5" facs="tcp:159732:4"/>
+               <!-- PDF PAGE 52 -->Lords and Commons, to adjudge and deter<g ref="char:EOLhyphen"/>mine ſcandalous offences not formerly enume<g ref="char:EOLhyphen"/>rated, and the Elderſhips ſhall proceed in the Examinations of ſuch ſcandalous offences accor<g ref="char:EOLhyphen"/>ding to the cauſions and reſtrictions mentioned in the Ordinance of the twentieth of October, 1645. And the ſaid Committee ſhall have ſuch power, and ſhall proceed in ſuch ſort as is here<g ref="char:EOLhyphen"/>after mentioned.</p>
+            <p>If any notorious and ſcandalous offence not formerly enumerated be committed by any within any Elderſhip, and ſo after full proofe ſhall be found before the Elderſhip, who ſhall have power to examine Proofs and Witneſſes on both ſides, in caſe both the Elderſhip and the party complained of do agree, the Proofs and Examinations to be duly taken, the ſaid Elder<g ref="char:EOLhyphen"/>ſhip ſhall forthwith certifie the ſaid Offence, with the Proofs, to the ſaid Committee of Par<g ref="char:EOLhyphen"/>liament, who ſhall with all convenient ſpeed determine and adjudge the ſame; But in caſe the party accuſed ſhall finde himſelfe grieved, either by the not examination or undue exami<g ref="char:EOLhyphen"/>nation of Witneſſes, or miſ-entring of the De<g ref="char:EOLhyphen"/>poſitions,
+<pb n="6" facs="tcp:159732:5"/>
+               <!-- PDF PAGE 53 -->in ſuch caſe he ſhall forthwith declare the ſame to the Elderſhip, who ſhall relieve him if there be cauſe, which if they ſhall not do, then the three Juſtices of Peace next to the Pa<g ref="char:EOLhyphen"/>riſh whereof the party complained of is a Mem<g ref="char:EOLhyphen"/>ber, or any two of them, not being of the ſame Elderſhip before whom the Complaint lyes, ſhall have power, and are hereby inabled and re<g ref="char:EOLhyphen"/>quired forthwith to examine upon Oath the ſaid Witneſſes that were not examined, or were miſ-examined, or whoſe Depoſitions were miſ<g ref="char:EOLhyphen"/>entred, and with all convenient ſpeed retume the Examination to the ſaid Committee of Par<g ref="char:EOLhyphen"/>liament: And in caſe the ſaid Juſtices, or any two of them, do not finiſh their Examination, within ſix daies after the Cauſe ſhall be preſent<g ref="char:EOLhyphen"/>ed to them, the Party ſhall abſtaine untill they have finiſhed and certified their Examinations; And the ſaid Committee upon hearing the whole matter from the Elderſhip and Juſtices, or either of them, ſhall adjudge whether the ſame be a notorious and ſcandalous offence, and ſo proved or no. And in caſe the ſaid Commit<g ref="char:EOLhyphen"/>tee ſhall not adjudge and determine the Caſe
+<pb n="7" facs="tcp:159732:5"/>
+               <!-- PDF PAGE 53 -->within fourteen daies after the receipt of the Certificate to them made, the party againſt whom the ſaid Certificate ſhall be made, ſhall abſtaine from the Sacrament, untill the Com<g ref="char:EOLhyphen"/>mittee ſhall determine the ſame, unleſſe in the meane time the party ſhall ſhew his repentance for the ſaid offence, and thereof give ſatiſfacti<g ref="char:EOLhyphen"/>on to the Elderſhip; And if the ſaid Committee ſhall adjudge the ſame not to be a ſcandalous Offence, or not well proved, the ſaid party ſhall be admitted to the Sacrament; and if they ſhall adjudge the ſame to be a ſcandalous Offence, and ſo proved, he ſhall not be admitted to the Sacrament untill he ſhall have teſtified his repen<g ref="char:EOLhyphen"/>tance to the Elderſhip.</p>
+            <p>And be it further Ordained, That the El<g ref="char:EOLhyphen"/>derſhip ſhall either give perſonall notice to the Party complained of before them, or elſe leave notice in writing at his dwelling place, of the time and place when and where they will exa<g ref="char:EOLhyphen"/>mine Witneſſes againſt him, and alſo of the time that they will make their Certificate to the Committee of Parliament. And in caſe informa<g ref="char:EOLhyphen"/>tion ſhall be given to the Elderſhip of a notori<g ref="char:EOLhyphen"/>ous
+<pb n="8" facs="tcp:159732:6"/>
+               <!-- PDF PAGE 54 -->and ſcandalous offence committed by any within their Elderſhip, they ſhall forthwith pro<g ref="char:EOLhyphen"/>ceed to the Examinat on thereof; And if they cannot finiſh their Examination till the week be<g ref="char:EOLhyphen"/>fore the Sacrament, and they ſhall then finde by ſufficient proof that he hath committed a noto<g ref="char:EOLhyphen"/>rious and ſcandalous Offence, and yet they can<g ref="char:EOLhyphen"/>not certifie the ſame before the Sacrament, it be<g ref="char:EOLhyphen"/>ing to be adminiſtred within a week after, in ſuch caſe the party ſhall abſtaine from the Sa<g ref="char:EOLhyphen"/>crament for the next time onely, unleſſe the Committee of Parliament, to whom the ſame is to be certified, ſhall adjudge the ſame a notori<g ref="char:EOLhyphen"/>ous and ſcandalous offence, and ſo proved; for which he ought to be kept from the Sacrament: and in ſuch caſe, upon the teſtifying of his re<g ref="char:EOLhyphen"/>pentance to the Elderſhip, he ſhall be againe re<g ref="char:EOLhyphen"/>ſtored to the Sacrament, and not before.</p>
+            <p>And be it further Ordained, If any ſhall finde themſelves agrieved with the judgement againſt him given by the ſaid Committee, they ſhall appeale from thence to both Houſes of Par<g ref="char:EOLhyphen"/>liament, if they ſee cauſe.</p>
+            <p>And be it Ordained, That the Committee
+<pb n="9" facs="tcp:159732:6"/>
+               <!-- PDF PAGE 54 -->to whom the ſaid Certificate ſhall be made, as aforeſaid, ſhall report to both Houſes the ſaid ſeverall Caſes to them certified, and their judge<g ref="char:EOLhyphen"/>ments thereupon, that ſo the Offences not yet enumerated may be added to the enumeration, in caſe the Houſes ſhall ſo think ſit, and in their Reports they ſhall take care that they firſt report thoſe Certificates and their opinions thereupon, wherein they at any time ſhall differ from the Elderſhip.</p>
+            <p>And be it further Ordained, That this Ordi<g ref="char:EOLhyphen"/>nance ſhall continue for the ſpace of three yeers, and no longer, unleſſe both Houſes think fit to continue it.</p>
+            <closer>
+               <signed>Ioh. Brown Cler. Parliamentorum.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
